@@ -3,6 +3,9 @@ Project: jackson-databind
 ------------------------------------------------------------------------
 === Releases === 
 ------------------------------------------------------------------------
+2.12.7-CVE-update (6-Oct-2022)
+#3582: Add check in `BeanDeserializer._deserializeFromArray()` to prevent
+  use of deeply nested arrays
 
 2.12.7 (26-May-2022)
 
