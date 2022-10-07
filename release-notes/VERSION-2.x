@@ -9,7 +9,7 @@ Project: jackson-databind
   use of deeply nested arrays [CVE-2022-42004]
 
 #3590: Add check in primitive value deserializers to avoid deep wrapper array
-  nesting wrt `UNWRAP_SINGLE_VALUE_ARRAYS` 
+  nesting wrt `UNWRAP_SINGLE_VALUE_ARRAYS` [CVE-2022-42003] 
   
 2.12.7 (26-May-2022)
 
